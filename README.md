@@ -1,1 +1,1 @@
-# polinomials-factorization
+# polynomials-factorization
